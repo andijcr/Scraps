@@ -1,0 +1,1 @@
+enum class Cmd {NONE, MOVE};
